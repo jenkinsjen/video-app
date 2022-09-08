@@ -1,7 +1,6 @@
 {
   "name": "express-live-stream",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -17,5 +16,14 @@
     "express": "^4.18.1",
     "nodemon": "^2.0.19",
     "twilio": "^3.82.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenkinsjen/video-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jenkinsjen/video-app/issues"
+  },
+  "homepage": "https://github.com/jenkinsjen/video-app#readme",
+  "description": ""
 }
